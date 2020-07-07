@@ -2,7 +2,7 @@ import React from 'react';
 
 import './App.css';
 
-import GiphySearch from './Pages/GiphySearch/GiphySearch'
+import GiphySearch from './components/GiphySearch/GiphySearch'
 
 function App() {
   return (
