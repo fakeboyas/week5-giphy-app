@@ -2,12 +2,12 @@ import React from 'react';
 
 import './App.css';
 
-import GiphySearch from './components/GiphySearch/GiphySearch'
+import LandingPage from './pages/LandingPage/LandingPage'
 
 function App() {
   return (
     <div className="App">
-      <GiphySearch />
+      <LandingPage />
     </div>
   );
 }
